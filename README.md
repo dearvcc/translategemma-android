@@ -4,3 +4,8 @@ Google最近(2026年初)开源的祖传翻译功能translategemma终于在手机
 <img width="598" height="665" alt="image" src="https://github.com/user-attachments/assets/1f43a0f6-ba82-4ac7-817d-d1e5f4fe95ad" />
 <img width="598" height="665" alt="image" src="https://github.com/user-attachments/assets/9acedd43-d2a7-4308-b0ce-5fb4c154e450" />
 <img width="615" height="680" alt="image" src="https://github.com/user-attachments/assets/db3610a6-6634-4bb5-abce-a6f8c9584697" />
+![47ac390bcf1c842bb3788b2eeb678d63_720](https://github.com/user-attachments/assets/30e699f0-7689-4538-aeed-45902a1fd182)
+
+联系作者:
+qq:401915922
+微信:vrgoing
