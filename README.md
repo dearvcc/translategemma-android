@@ -13,7 +13,7 @@ Google最近(2026年初)开源的祖传翻译功能translategemma终于在手机
 <img width="598" height="598" alt="image" src="https://github.com/user-attachments/assets/d37c2886-3c08-4139-bc52-a72c1241fb67" />
 
 红米Note9,基本每句都不超过10秒，已经接近普通PC机的性能了:<br>
-<img alt="image" src="https://github.com/user-attachments/assets/e6214333-3463-480b-833f-0ce9da4e21cc" />
+<img width="333" height=333 alt="image" src="https://github.com/user-attachments/assets/e6214333-3463-480b-833f-0ce9da4e21cc" />
 
 联系作者:
 
